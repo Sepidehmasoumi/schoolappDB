@@ -1,0 +1,12 @@
+C:\Users\sepideh\source\repos\SchoolappDB\SchoolappDB\bin\Debug\schoolapp.mdf
+C:\Users\sepideh\source\repos\SchoolappDB\SchoolappDB\bin\Debug\schoolapp_log.ldf
+C:\Users\sepideh\source\repos\SchoolappDB\SchoolappDB\bin\Debug\SchoolappDB.exe.config
+C:\Users\sepideh\source\repos\SchoolappDB\SchoolappDB\bin\Debug\SchoolappDB.exe
+C:\Users\sepideh\source\repos\SchoolappDB\SchoolappDB\bin\Debug\SchoolappDB.pdb
+C:\Users\sepideh\source\repos\SchoolappDB\SchoolappDB\obj\Debug\SchoolappDB.csproj.AssemblyReference.cache
+C:\Users\sepideh\source\repos\SchoolappDB\SchoolappDB\obj\Debug\SchoolappDB.Form1.resources
+C:\Users\sepideh\source\repos\SchoolappDB\SchoolappDB\obj\Debug\SchoolappDB.Properties.Resources.resources
+C:\Users\sepideh\source\repos\SchoolappDB\SchoolappDB\obj\Debug\SchoolappDB.csproj.GenerateResource.cache
+C:\Users\sepideh\source\repos\SchoolappDB\SchoolappDB\obj\Debug\SchoolappDB.csproj.CoreCompileInputs.cache
+C:\Users\sepideh\source\repos\SchoolappDB\SchoolappDB\obj\Debug\SchoolappDB.exe
+C:\Users\sepideh\source\repos\SchoolappDB\SchoolappDB\obj\Debug\SchoolappDB.pdb
